@@ -1,5 +1,6 @@
 <html>
     <head>
+        <meta charset="UTF-8">
         <title>นนทพัทธ์ เทศปัญ (นนท์)</title>
     </head>
     <body>
