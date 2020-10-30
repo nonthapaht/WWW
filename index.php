@@ -9,8 +9,8 @@
     <a href="http://www1.reg.kmitl.ac.th/filecontainer/files/resign_bacherure.pdf">link นี้ผมชอบเข้า</a>
     <br>
     <h2>เรื่อง รถเมล์ = สองแถว</h2>
-    <img scr="car1.jpg">
-    <img scr="car2.jpg">
+    <img src="car1.jpg">
+    <img src="car2.jpg">
     <ul>
         <p>คือ ผมอ่ะเป็นคนสมุทรสงครามใช่มั้ย ้แล้วขนส่งมวลชนที่นี่นั่น</p>
         <p>เราจะเรียกรถที่รับส่งเราจากที่นึงไปยังที่ ว่า รถเมล์เสมอ เพราะฉะนั้นเวลา</p>
